@@ -1,0 +1,48 @@
+[
+  {
+    "date": "2026-02-07",
+    "order": 1,
+    "type": "text",
+    "text": "Good morning love ❤️ I hope your day starts softly."
+  },
+  {
+    "date": "2026-02-07",
+    "order": 2,
+    "type": "image",
+    "image": "assets/images/img1.jpg"
+  },
+  {
+    "date": "2026-02-07",
+    "order": 3,
+    "type": "both",
+    "text": "This memory still makes me smile 😊",
+    "image": "assets/images/img2.jpg"
+  },
+
+  {
+    "date": "2026-02-08",
+    "order": 1,
+    "type": "text",
+    "text": "A new day, but my thoughts still begin with you 🤍"
+  },
+  {
+    "date": "2026-02-08",
+    "order": 2,
+    "type": "image",
+    "image": "assets/images/img3.jpg"
+  },
+
+  {
+    "date": "2026-02-09",
+    "order": 1,
+    "type": "both",
+    "text": "I wish I could freeze this moment forever 💫",
+    "image": "assets/images/img4.jpg"
+  },
+  {
+    "date": "2026-02-09",
+    "order": 2,
+    "type": "text",
+    "text": "No matter how many times you open this today, my love doesn’t change ❤️"
+  }
+]
