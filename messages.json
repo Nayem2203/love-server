@@ -8,15 +8,14 @@
   {
     "date": "2026-02-07",
     "order": 2,
-    "type": "image",
-    "image": "assets/images/img1.jpg"
+    "type": "text",
+    "text": "Good morning love ❤️ I hope your day starts softly23."
   },
   {
     "date": "2026-02-07",
     "order": 3,
-    "type": "both",
-    "text": "This memory still makes me smile 😊",
-    "image": "assets/images/img2.jpg"
+    "type": "text",
+    "text": "Good morning love ❤️ I hope your day starts softly33."
   },
 
   {
@@ -25,19 +24,11 @@
     "type": "text",
     "text": "A new day, but my thoughts still begin with you 🤍"
   },
-  {
-    "date": "2026-02-08",
-    "order": 2,
-    "type": "image",
-    "image": "assets/images/img3.jpg"
-  },
 
   {
     "date": "2026-02-09",
     "order": 1,
-    "type": "both",
-    "text": "I wish I could freeze this moment forever 💫",
-    "image": "assets/images/img4.jpg"
+    "text": "I wish I could freeze this moment forever 💫"
   },
   {
     "date": "2026-02-09",
