@@ -8,20 +8,97 @@
   {
     "date": "2026-02-07",
     "order": 2,
+    "type": "both",
+    "text": "তোমার সঙ্গে আমি ফুলের সঙ্গে তুলনা করব না,\nফুলেও এলার্জি হতে পারে, কিন্তু তোমার প্রতি শুধু আসক্তি।",
+    "image": "rose4.jpg"
+  },
+  {
+    "date": "2026-02-07",
+    "order": 3,
     "type": "image",
     "image": "img2.jpeg"
   },
   {
     "date": "2026-02-07",
-    "order": 2,
+    "order": 4,
     "type": "text",
-    "text": "i test the code"
+    "text": "Do you know .Rose is not so sweet like you . So i love you a lot"
   },
   {
     "date": "2026-02-07",
-    "order": 2,
+    "order": 5,
     "type": "both",
-    "text": "i test the code",
-    "image": "img3.jpeg"
+    "text": "Do you remember the day?Two Moon and many rose made my day happy",
+    "image": "rose1.jpg"
+  },
+  {
+    "date": "2026-02-07",
+    "order": 6,
+    "type": "image",
+    "image": "rose6.jpeg"
+  },
+  {
+    "date": "2026-02-07",
+    "order": 7,
+    "type": "both",
+    "text": "You’re my Rose River—calm in storms, constant in my heart.",
+    "image": "rose2.jpg"
+  },
+  {
+    "date": "2026-02-07",
+    "order": 8,
+    "type": "both",
+    "text": "তুমি আমার সেই গোলাপ, যে গোলাপের কখনো পাপড়ি ঝরে না—\nসময়ের ঝড়েও তোমার রং ফুরিয়ে যায় না।\nনীরব ভালোবাসায় তুমি আমার চিরদিনের থাকা।",
+    "image": "rose3.jpg"
+  },
+  {
+    "date": "2026-02-07",
+    "order": 9,
+    "type": "both",
+    "text": "প্রতিটি পাপড়ি তোমার মতো সুন্দর, অমলিন এবং অবিস্মরণীয়।",
+    "image": "rose5.jpg"
+  },
+  {
+    "date": "2026-02-07",
+    "order": 10,
+    "type": "text",
+    "text": "You make my heart bloom with every smile.\nBeing with you feels like forever in a garden of roses."
+  },
+  {
+    "date": "2026-02-07",
+    "order": 11,
+    "type": "image",
+    "image": "rose8.jpeg"
+  },
+  {
+    "date": "2026-02-07",
+    "order": 12,
+    "type": "text",
+    "text": "Some moments don’t need pictures—your presence is enough."
+  },
+  {
+    "date": "2026-02-07",
+    "order": 13,
+    "type": "text",
+    "text": "Even silence feels warm when it carries your name."
+  },
+  {
+    "date": "2026-02-07",
+    "order": 14,
+    "type": "both",
+    "text": "তোমার একটুখানি হাসি পুরো দিনের ক্লান্তি মুছে দেয়।",
+    "image": "rani2.jpg"
+  },
+  {
+    "date": "2026-02-07",
+    "order": 15,
+    "type": "text",
+    "text": "If love had a shape, it would look like the calm I feel with you."
+  },
+  {
+    "date": "2026-02-07",
+    "order": 16,
+    "type": "text",
+    "text": "কিছু অনুভূতি শব্দে ধরা যায় না—তুমি ঠিক তেমনই।"
   }
 ]
